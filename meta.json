@@ -1,0 +1,13 @@
+{
+  "namespace": "github.com/backtolife2021",
+  "copyright": "2021, backtolife (https://floatsyi.com)",
+  "include": ["http*://*"],
+  "require": [
+    "https://cdn.jsdelivr.net/npm/@violentmonkey/dom@2",
+    "https://unpkg.com/@vscode/vscode-languagedetection@1.0.21",
+    "https://unpkg.com/shiki@0.9.15/dist/index.unpkg.iife.js",
+    "https://unpkg.com/prettier@2.5.1/standalone.js",
+    "https://unpkg.com/prettier@2.5.1/parser-typescript.js",
+    "https://unpkg.com/prettier@2.5.1/parser-babel.js"
+  ]
+}
